@@ -1,4 +1,5 @@
-My name is Michael and today is Wednesday, June 16, 12:37 AM MDT in Utah.
+Hello. My name is Michael. Welcome to my GitHub page.  
+Today is Wednesday, June 16, 2:37 AM MDT in Utah.
 
 <!--
 **sernadesigns/sernadesigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
