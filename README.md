@@ -1,5 +1,9 @@
-Hello. My name is Michael. Welcome to my GitHub page.  
-<!-- Today is Tuesday, July 6, 6:19 PM MDT in Utah. -->
+# GitHub for SernaDesigns.
+
+My name is Michael. Welcome to my GitHub page.  
+Today is Thursday, July 8 in Utah.  
+
+I am a Front End Engineer and love to work in JavaScript.
 
 <!--
 **sernadesigns/sernadesigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
