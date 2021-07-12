@@ -1,7 +1,7 @@
 # GitHub for SernaDesigns.
 
 My name is Michael. Welcome to my GitHub page.  
-Today is Sunday, July 11 in Utah.  
+Today is Monday, July 12 in Utah.  
 
 I am a Front End Engineer and love to work in JavaScript.
 
