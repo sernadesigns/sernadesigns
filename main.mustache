@@ -14,7 +14,7 @@ I am a Front End Engineer and love to work in JavaScript.
 [![SernaDesigns GitHub stats](https://github-readme-stats.vercel.app/api?username=sernadesigns&count_private=true&show_icons=true&theme=great-gatsby&custom_title=SernaDesigns%20GitHub%20Stats)](https://github.com/sernadesigns/github-readme-stats)
 
 ## Resources for this README
-https://github.com/jamesgeorge007/github-activity-readme
+
 - GitHub activity action from [https://github.com/jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 - GitHub README stats from [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
