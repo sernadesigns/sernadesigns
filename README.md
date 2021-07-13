@@ -5,6 +5,8 @@ Today is Monday, July 12 in Utah.
 
 I am a Front End Engineer and love to work in JavaScript.
 
+[![SernaDesigns' GitHub stats](https://github-readme-stats.vercel.app/api?username=sernadesigns)](https://github.com/sernadesigns/github-readme-stats)
+
 <!--
 **sernadesigns/sernadesigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
