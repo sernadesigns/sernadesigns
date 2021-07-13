@@ -3,7 +3,7 @@
 My name is Michael. Welcome to my GitHub page.  
 Today is Tuesday, July 13 in Utah.  
 
-I am a Front End Engineer, born and raisedin California, now based in Utah @VivintSmartHome.
+I am a Front End Engineer, born and raised in California, now based in Utah @VivintSmartHome.
 
 ## Stats
 
