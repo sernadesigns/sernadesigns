@@ -27,6 +27,8 @@ jobs:
         run: yarn
       - name: Generate README file
         run: node index.js
+      - name: Update README with recent activity
+        uses: jamesgeorge007/github-activity-readme@master
       - name: Commit and Push new README.md to the repository
         uses: mikeal/publish-to-github-action@master
         env:
