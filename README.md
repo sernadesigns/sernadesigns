@@ -5,9 +5,10 @@ Today is Tuesday, July 13 in Utah.
 
 I am a Front End Engineer and love to work in JavaScript.
 
+<!--
 ## Recent Activity
 
-<!--START_SECTION:activity-->
+<!--START_SECTION:activity--> -->
 
 ## Stats
 
