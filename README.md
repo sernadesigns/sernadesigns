@@ -3,12 +3,7 @@
 My name is Michael. Welcome to my GitHub page.  
 Today is Tuesday, July 13 in Utah.  
 
-I am a Front End Engineer and love to work in JavaScript.
-
-<!--
-## Recent Activity
-
-<!--START_SECTION:activity--> -->
+I am a Front End Engineer, born and raisedin California, now based in Utah @VivintSmartHome.
 
 ## Stats
 
@@ -16,7 +11,6 @@ I am a Front End Engineer and love to work in JavaScript.
 
 ## Resources for this README
 
-- GitHub activity action from [https://github.com/jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 - GitHub README stats from [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
