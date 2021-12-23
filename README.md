@@ -9,6 +9,10 @@ I am a Front End Engineer, born and raised in California, now based in Utah @Viv
 
 [![SernaDesigns GitHub stats](https://github-readme-stats.vercel.app/api?username=sernadesigns&count_private=true&show_icons=true&theme=great-gatsby&custom_title=SernaDesigns%20GitHub%20Stats)](https://github.com/sernadesigns/github-readme-stats)
 
+## Most used languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sernadesigns&theme=great-gatsby)
+
 ## Resources for this README
 
 - GitHub README stats from [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
