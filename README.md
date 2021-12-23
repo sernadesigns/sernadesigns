@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=sernadesigns)
-
 # GitHub for SernaDesigns.
 
 My name is Michael. Welcome to my GitHub page.  
