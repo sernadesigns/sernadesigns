@@ -1,17 +1,15 @@
+![](https://komarev.com/ghpvc/?username=sernadesigns)
+
 # GitHub for SernaDesigns.
 
 My name is Michael. Welcome to my GitHub page.  
-Today is Wednesday, December 22 in Utah.  
+Today is Thursday, December 23 in Utah.  
 
 I am a Front End Engineer, born and raised in California, now based in Utah @VivintSmartHome.
 
 ## Stats
 
 [![SernaDesigns GitHub stats](https://github-readme-stats.vercel.app/api?username=sernadesigns&count_private=true&show_icons=true&theme=great-gatsby&custom_title=SernaDesigns%20GitHub%20Stats)](https://github.com/sernadesigns/github-readme-stats)
-
-## Most used languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sernadesigns&theme=great-gatsby)
 
 ## Resources for this README
 
