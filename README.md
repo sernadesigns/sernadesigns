@@ -1,7 +1,7 @@
 # GitHub for SernaDesigns.
 
 My name is Michael. Welcome to my GitHub page.  
-Today is Friday, August 12 in Utah.  
+Today is Saturday, August 13 in Utah.  
 
 I am a Front End Engineer, born and raised in California, now based in Utah @VivintSmartHome.
 
