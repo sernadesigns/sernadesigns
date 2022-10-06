@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/sernadesigns/sernadesigns#readme",
   "devDependencies": {
+    "dayjs": "^1.11.5",
     "mustache": "^4.2.0"
   }
 }

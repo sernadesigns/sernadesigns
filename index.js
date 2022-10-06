@@ -1,20 +1,25 @@
 const Mustache = require('mustache');
 const fs = require('fs');
+const dayjs = require('dayjs');
+const RelativeTime = require('dayjs/plugin/relativeTime');
+const UTC = require('dayjs/plugin/utc')
+const Timezone = require('dayjs/plugin/timezone') // dependent on utc plugin
 const MUSTACHE_MAIN_DIR = './main.mustache';
+
+dayjs.extend(UTC);
+dayjs.extend(Timezone);
+dayjs.extend(RelativeTime);
+dayjs.tz.setDefault('America/Denver');
+
 /**
   * DATA is the object that contains all
   * the data to be provided to Mustache
-  * Notice the "name" and "date" property.
 */
 let DATA = {
-  name: 'Michael',
-  date: new Date().toLocaleDateString('en-US', {
-    weekday: 'long',
-    month: 'long',
-    day: 'numeric',
-    timeZone: 'America/Denver',
-  }),
+  today: dayjs().format('dddd, MMMM D'),
+  timeCoding: dayjs('2011-01-03').toNow(true),
 };
+
 /**
   * A - We open 'main.mustache'
   * B - We ask Mustache to render our file with the data
