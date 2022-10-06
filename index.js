@@ -16,8 +16,8 @@ dayjs.tz.setDefault('America/Denver');
   * the data to be provided to Mustache
 */
 let DATA = {
-  today: dayjs().format('dddd, MMMM D'),
-  timeCoding: dayjs('2011-01-03').toNow(true),
+  today: dayjs().tz('America/Denver').format('dddd, MMMM D'),
+  timeCoding: dayjs('2011-01-03').tz('America/Denver').toNow(true),
 };
 
 /**
