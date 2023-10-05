@@ -6,7 +6,7 @@ Senior Frontend Engineer @ Vivint
 
 I have been writing code for 13 years after switching careers and have been learning ever since.
 
-* 🌍  I'm based in Utah (Today's date is Wednesday, October 4)
+* 🌍  I'm based in Utah (Today's date is Thursday, October 5)
 * 🖥️  See my portfolio at [sernadesigns.com](http://sernadesigns.com)
 * 🧠  I'm learning Vue, Vite, and Vitest
 
