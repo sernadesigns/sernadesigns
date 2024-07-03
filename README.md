@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Frontend Engineer @ Vivint
 ---------------------------------
 
-I have been writing code for 13 years after switching careers and have been learning ever since.
+I have been writing code for 14 years after switching careers and have been learning ever since.
 
 * 🌍  I'm based in Utah (Today's date is Tuesday, July 2)
 * 🖥️  See my portfolio at [sernadesigns.com](http://sernadesigns.com)
